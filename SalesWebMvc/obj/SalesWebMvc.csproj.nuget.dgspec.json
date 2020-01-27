@@ -47,10 +47,9 @@
               "version": "[2.1.1, )",
               "autoReferenced": true
             },
-            "Microsoft.AspNetCore.Razor.Design": {
-              "suppressParent": "All",
+            "Microsoft.EntityFrameworkCore.Tools": {
               "target": "Package",
-              "version": "[2.1.2, )"
+              "version": "[2.1.14, )"
             },
             "Microsoft.NETCore.App": {
               "suppressParent": "All",
@@ -58,17 +57,13 @@
               "version": "[2.1.0, )",
               "autoReferenced": true
             },
-            "Microsoft.NETCore.Platforms": {
-              "target": "Package",
-              "version": "[3.1.0, )"
-            },
             "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
               "target": "Package",
               "version": "[2.1.9, )"
             },
             "Pomelo.EntityFrameworkCore.MySql": {
               "target": "Package",
-              "version": "[3.1.0, )"
+              "version": "[2.1.1, )"
             }
           },
           "imports": [
